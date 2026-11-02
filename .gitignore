@@ -48,3 +48,7 @@ Thumbs.db
 *.mov
 *.wmv
 
+
+# Keep the Gradle wrapper required to run Android tests
+!mobile/android/gradle/wrapper/gradle-wrapper.jar
+mobile/android/app/debug.keystore
